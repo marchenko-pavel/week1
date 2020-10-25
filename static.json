@@ -1,6 +1,6 @@
 {
-"Headers": {
-  "*":{
+"headers": {
+  "/*":{
     "X-Author": "marchenkopawel",
     "Access-Control-Allow-Origin": "*"
     }
