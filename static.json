@@ -1,7 +1,8 @@
 {
 "Headers": {
   "*":{
-    "X-Author": "marchenkopawel"
+    "X-Author": "marchenkopawel",
+    "Access-Control-Allow-Origin": "*"
     }
   }
 }
